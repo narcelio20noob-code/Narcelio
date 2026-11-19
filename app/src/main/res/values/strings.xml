@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TelaJogo</string>
+    <string name="sim_header_title">Simulador Tela de Bloqueio</string>
+    <string name="sim_oled_on">OLED Puro 30fps</string>
+    <string name="sim_oled_off">Contraste 60fps</string>
+    <string name="sim_screen_off">Apagar Tela</string>
+    <string name="sim_screen_on">Acender Tela</string>
+    <string name="sim_pocket_sim">Bolso</string>
+    <string name="sim_silent_mode">Silencioso</string>
+    <string name="notif_masked_summary">2 notificações ocultas • Desbloqueie para ler</string>
+    <string name="unlock_swipe_hint">Deslize ou toque para desbloquear</string>
+    <string name="emergency_call">Emergência</string>
+    <string name="configurator_title">App Configurador</string>
+    <string name="unlock_title">Autenticação Necessária</string>
+    <string name="unlock_subtitle">Sandbox LockSurface isolado. Desbloqueie para acessar o Configurador ou notificações.</string>
+    <string name="unlock_pin_hint">PIN padrão de demonstração: 1234</string>
+    <string name="unlock_biometric_btn">Usar Biometria</string>
+    <string name="unlock_cancel_btn">Voltar ao Bloqueio</string>
+    <string name="game_2048_name">2048 Micro</string>
+    <string name="game_2048_desc">Grade 3×3 • Polegar • 20–45s</string>
+    <string name="game_orbital_name">Reflexo Orbital</string>
+    <string name="game_orbital_desc">1 toque • Órbita contínua • 15–30s</string>
+    <string name="game_memory_name">Memória Cromática</string>
+    <string name="game_memory_desc">4 símbolos • Sequência tátil • 15–40s</string>
+    <string name="paused_inactivity_title">Pausado por inatividade (12s)</string>
+    <string name="paused_inactivity_cta">Toque para retomar instantaneamente</string>
+    <string name="pocket_blocked_title">Proteção Anti-Bolso Ativa</string>
+    <string name="pocket_blocked_desc">Sensor de proximidade/movimento bloqueou toques acidentais para proteger a bateria.</string>
+    <string name="pocket_override_cta">Simular retirada do bolso</string>
+</resources>

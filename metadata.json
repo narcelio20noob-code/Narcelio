@@ -1,0 +1,6 @@
+{
+  "name": "TelaJogo",
+  "description": "Minijogos instantâneos na tela de bloqueio com sandbox isolado, proteção anti-bolso e modo OLED puro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
